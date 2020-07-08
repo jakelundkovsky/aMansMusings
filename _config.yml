@@ -10,7 +10,7 @@ title:            A Man's Musings
 tagline:          'A collection of reflections.'
 description:      'A personal collection of notes, thoughts, and reflections made by <a href="https://www.instagram.com/jakelundkovsky/" target="_blank">@jakelundkovsky</a>.'
 url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl:          http://jakelundkovsky.github.io/aMansMusings/
 
 author:
   name:           'Jake Lundkovsky'
